@@ -1,7 +1,7 @@
 <div align="center">
   <h1><code>sm_whitelist</code></h1>
   <p>
-    <strong>the command /wl will open a webpage with the server's whitelist group on steam.</strong>
+    <strong>the command /wl will open a webpage with the server's whitelist group on steam. Do not forget to change the title and the link, so it fits your server.</strong>
   </p>
   <p style="margin-bottom: 0.5ex;">
     <img
