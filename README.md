@@ -23,7 +23,8 @@
 
 ## Installation ##
 1. Change the URL to your whitelist steam group
-1. Grab the latest release from the release page and unzip it in your server folder.
+2. Grab the latest release from the release page and unzip it in your server folder.
+3. If you're using the plugin on CSGO, remove the line 27 and use the line 30. If you're using the plugin on CS:S, remove the line 30. (Thanks Nora)
 
 ## Usage ##
 - sm_wl (/wl or !wl)
