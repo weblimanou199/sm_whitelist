@@ -23,7 +23,11 @@ public Action Command_Whitelist(int client, int args) {
 		ReplyToCommand(client, "[WhiteList] Usage : sm_wl");
 		return Plugin_Handled;
 	} 
-
+	// FOR CS:S
 	ShowMOTDPanel(client, "[Australis] Whitelist Steam Group", "https://steamcommunity.com/groups/AustralisWL", MOTDPANEL_TYPE_URL);
+	
+	// Since csgo doesn't have MOTDPanel, this will send the link in the chat. You can remove this line if you're on CS:S
+	ReplyToCommand(client, "[WhiteList] Whitelist Steam Group: https://steamcommunity.com/groups/AustralisWL")
+
 	return Plugin_Handled;
 } 
