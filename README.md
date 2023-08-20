@@ -31,3 +31,5 @@
 
 ## Informations ##
 - This project was made by SeenKid
+
+### Do not hesitate to visit us and try the plugin @ public.australis-bhop.net:27115
